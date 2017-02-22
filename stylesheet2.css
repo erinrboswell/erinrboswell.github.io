@@ -1,0 +1,41 @@
+/*Add your CSS below!*/
+
+div {
+	position: relative;
+	display: inline-block;
+	height: 200px;
+	width: 100px;
+	border-radius: 100%;
+	border: 2px solid black;
+	margin-left: 5px;
+	margin-top: 5px;
+	text-align: center;
+}
+
+div p {
+	position: relative;
+	margin-top: 40px;
+	font-size: 12px;
+}
+
+.friend {
+	border: 3px dashed yellow;
+}
+
+.family {
+	border: 3px dashed silver;
+}
+
+.enemy {
+	border: 3px dashed pink;
+}
+
+#best_friend {
+	border: 4px solid yellow;
+}
+
+#archnemesis {
+	border: 4px solid pink;
+}
+#family {
+    border: 6px solid silver
